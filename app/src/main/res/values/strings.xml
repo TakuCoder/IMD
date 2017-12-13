@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name ="internet_toast">No Internet Found!</string>
+</resources>
